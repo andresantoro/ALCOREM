@@ -5,7 +5,7 @@ This is **ALCOREM**(**AL**gorithmic **CO**mplexity and **RE**ducibility of **M**
 
 In the folders there are two different C codes, which respectively implement the algorithms to compute the algorithmic complexity of a multiplex network and the one for reducing the multiplex network. The algorithms are based on the procedure described in the paper:
 
-A.Santoro, V. Nicosia, Algorithmic Complexity of Multiplex Networks, https://arxiv.org/abs/1903.08049
+A.Santoro, V. Nicosia, *Algorithmic Complexity of Multiplex Networks*, Phys. Rev. X **10**, 021069 (2020) https://doi.org/10.1103/PhysRevX.10.021069
 
 The code has been tested on OSX and Linux distributions using gcc/clang/icc compilers.
 
